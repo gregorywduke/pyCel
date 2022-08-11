@@ -1,4 +1,4 @@
-=============================================
+
  pyCel is a Python application designed for specific data processing of Excel files.
 =============================================
 
