@@ -1,6 +1,6 @@
-=====================================================================================
+=============================================
  pyCel is a Python application designed for specific data processing of Excel files.
-=====================================================================================
+=============================================
 
  pyCel uses openpyxl, PySimpleGUI, and pyinstaller to create a simple, intuitive 
  application that makes Excel data processing easy. It was created to for a client
